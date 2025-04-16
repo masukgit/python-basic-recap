@@ -18,3 +18,5 @@ m_string = '29.35'
 m_float = float(m_string)
 mn_string = str(m_float)
 print(mn_string)
+
+print(3**4)
