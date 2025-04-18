@@ -32,12 +32,12 @@ str() --> Convert to String
 float() --- > Convert to float
 
 # Python Operators
-Arthmetic Operators : +,-,*,/,%(Modulus Operators), **(Exponent), //(Floor Division)
-Assignment Operators: =, y+=3 ( y = y+3)
+Arthmetic Operators : +, -, *, /, %(Modulus Operators), **(Exponent), //(Floor Division)
+Assignment Operators: =, y += 3 ( y = y + 3)
 Comparison Operators: == (equal), != (Not equal), > (Greater than), < (less than), >=(Greater than Equal), <= (Less than Equal)
 Logical Operators: and , or , not
 Identity Operators : is, is not
-Membership Operators: is , not in
+Membership Operators: in , not in
 
 # Python list
 List is sequence of data, mulitple value or data can be stored
