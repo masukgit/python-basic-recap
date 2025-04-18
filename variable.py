@@ -1,27 +1,36 @@
-x = 2
-name = 'Masuk'
-ismale = True
+# x = 2
+# name = 'Masuk'
+# ismale = True
 
-print(ismale)
+# print(ismale)
 
-print(type(x))
+# print(type(x))
 
-x = None
-print(x)
-print(type(x))
+# x = None
+# print(x)
+# print(type(x))
 
-p= 8.61
-n = int(p)
-print(n)
+# p= 8.61
+# n = int(p)
+# print(n)
 
-m_string = '29.35'
-m_float = float(m_string)
-mn_string = str(m_float)
-print(mn_string)
+# m_string = '29.35'
+# m_float = float(m_string)
+# mn_string = str(m_float)
+# print(mn_string)
 
-print(3**4)
+# print(3**4)
 
-a = 7
-b = 4
+# a = 7
+# b = 4
 
-print(a != b)
+# print(a != b)
+
+text = ['i', 'love', 'python']
+text.insert(2, 'the')
+t = ' '.join(text)
+print(t)
+print(type(t))
+text.remove('the')
+text.pop()
+print(text)
